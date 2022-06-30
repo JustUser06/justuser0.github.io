@@ -1,0 +1,31 @@
+body {
+	background-image: url(space.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.clear {
+	position: fixed;
+	left: 80px;
+	top: 350px;
+	font-family: 'Rubik Moonrocks', cursive;
+}
+
+.texts {
+	position: fixed;
+	left: 80px;
+	top: 200px;
+	font-family: 'Rubik Moonrocks', cursive;
+	color: white;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+ul {
+	position: fixed;
+	left: 45px;
+	top: 10px;
+}
